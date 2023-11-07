@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="code-icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.91875"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <path
+     d="M16 11L17.6965 12.5268C19.239 13.9151 20.0103 14.6093 20.0103 15.5C20.0103 16.3907 19.239 17.0849 17.6965 18.4732L16 20"
+     stroke="#1C274C"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path2"
+     style="stroke:#04a590;stroke-opacity:1" />
+  <path
+     opacity="0.5"
+     d="M13.9868 5L10 20"
+     stroke="#1C274C"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path4"
+     style="stroke:#c8c8c8;stroke-opacity:1" />
+  <path
+     d="M8.00005 4.82959L6.30358 6.35641C4.76102 7.74471 3.98975 8.43886 3.98975 9.32959C3.98975 10.2203 4.76102 10.9145 6.30358 12.3028L8.00005 13.8296"
+     stroke="#1C274C"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path6"
+     style="fill-opacity:1;fill:none;stroke:#04a590;stroke-opacity:1" />
+</svg>
